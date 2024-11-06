@@ -1,0 +1,14 @@
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\bin\Debug\CafeShopMangement.exe.config
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\bin\Debug\CafeShopMangement.exe
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\bin\Debug\CafeShopMangement.pdb
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.csproj.AssemblyReference.cache
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.Properties.Resources.resources
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.csproj.GenerateResource.cache
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.csproj.CoreCompileInputs.cache
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.exe
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.pdb
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.RegisterForm.resources
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.WelcomeForm.resources
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.LoginForm.resources
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.MenuForm.resources
+C:\Users\duc67\Downloads\project\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.AddProductForm.resources
