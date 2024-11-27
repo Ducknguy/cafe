@@ -44,7 +44,7 @@ namespace CafeShopMangement
                     try
                     {
                         connect.Open();
-                        String selectData = "select * from NhanVien where username = @username and password = @pass";
+                        String selectData = "select * from UserLogin where username = @username and password = @pass";
                         using (SqlCommand cmd = new SqlCommand(selectData, connect))
                         {
                             cmd.Parameters.AddWithValue("@username", username.Text);

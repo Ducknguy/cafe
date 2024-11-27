@@ -55,3 +55,5 @@ C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangeme
 C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.exe
 C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.pdb
 C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.AddCashier.resources
+C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.CustomerForm.resources
+C:\Users\duc67\Downloads\New folder\New folder\CafeShopMangement\CafeShopMangement\obj\Debug\CafeShopMangement.Dashboard.resources

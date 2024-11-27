@@ -103,6 +103,26 @@ namespace CafeShopMangement.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_avatar_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-avatar-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_avatar_64__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-avatar-64 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_cafe_100 {
             get {
                 object obj = ResourceManager.GetObject("icons8-cafe-100", resourceCulture);
@@ -143,6 +163,16 @@ namespace CafeShopMangement.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_cash_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-cash-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_exit_64 {
             get {
                 object obj = ResourceManager.GetObject("icons8-exit-64", resourceCulture);
@@ -173,6 +203,16 @@ namespace CafeShopMangement.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_group_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-group-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_home_64 {
             get {
                 object obj = ResourceManager.GetObject("icons8-home-64", resourceCulture);
@@ -196,6 +236,26 @@ namespace CafeShopMangement.Properties {
         internal static System.Drawing.Bitmap icons8_menu_64 {
             get {
                 object obj = ResourceManager.GetObject("icons8-menu-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_money_bag_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-money-bag-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iStock_814684194_coffee_x {
+            get {
+                object obj = ResourceManager.GetObject("iStock-814684194-coffee-x", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

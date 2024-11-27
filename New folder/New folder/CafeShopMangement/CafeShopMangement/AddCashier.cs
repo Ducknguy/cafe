@@ -67,6 +67,8 @@ namespace CafeShopMangement
             string diaChi = txtDiaChi.Text.Trim();
             string soDt = txtSDT.Text.Trim();
             string email = txtEmail.Text.Trim();
+            string username = txtUsername.Text.Trim();
+            string password = txtPassword.Text.Trim();  
             string role = "";
             if (cbRole.SelectedIndex == 0) role = "admin";
             if (cbRole.SelectedIndex == 1) role = "cashier";
@@ -79,6 +81,8 @@ namespace CafeShopMangement
             row["diaChi"] = diaChi;
             row["soDT"] = soDt;
             row["email"] = email;
+            row["username"] = username;
+            row["password"] = password;
             row["role"] = role;
             row["image"] = getPhoto();
 
@@ -218,6 +222,8 @@ namespace CafeShopMangement
             string soDt = txtSDT.Text.Trim();
             string email = txtEmail.Text.Trim();
             string diaChi = txtDiaChi.Text.Trim();
+            string username = txtUsername.Text.Trim();
+            string password = txtPassword.Text.Trim();
             string role = "";
             if (cbRole.SelectedIndex == 0) role = "admin";
             if (cbRole.SelectedIndex == 1) role = "cashier";
@@ -231,6 +237,8 @@ namespace CafeShopMangement
             row["soDT"] = soDt;
             row["email"] = email;
             row["diaChi"] = diaChi;
+            row["username"]=username;
+            row["password"] = password;
             row["role"] = role;
             row["image"] = getPhoto();
 
@@ -292,6 +300,8 @@ namespace CafeShopMangement
             txtSDT.Text = row["soDT"].ToString().Trim();
             txtEmail.Text = row["email"].ToString().Trim();
             txtDiaChi.Text = row["diaChi"].ToString().Trim();
+            txtUsername.Text = row["username"].ToString().Trim();
+            txtPassword.Text = row["password"].ToString().Trim();
             if (row["role"].ToString().Trim() == "0") cbRole.SelectedIndex = 0;
             else cbRole.SelectedIndex = 1;
             if (row["image"] != DBNull.Value)
@@ -306,6 +316,13 @@ namespace CafeShopMangement
             {
                 pictureBox1.Image = null;
             }
+        }
+
+        private void btnAddProduct_Click(object sender, EventArgs e)
+        {
+            AddProductForm productForm = new AddProductForm();
+            productForm.Show();
+            this.Close();
         }
     }
     }
